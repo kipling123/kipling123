@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on GDGOC Telkom University
 - 📫 How to reach me on WhatsApp,LinkedIn 
-- 😄 Pronouns: Why, What,How
+- 😄 Pronouns: code code code
 - ⚡ Fun fact: Time Management, Discipline, TeamWork
 <!---
 kipling123/kipling123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
