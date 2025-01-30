@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rafi Ikbar Fahrezy
-- 👀 I’m interested in Machine Learning | Cyber Securty
+- 👀 I’m interested in Machine Learning | Cyber Security
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on GDGOC Telkom University
 - 📫 How to reach me on WhatsApp,LinkedIn 
